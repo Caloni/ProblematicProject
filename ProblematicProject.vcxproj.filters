@@ -18,15 +18,12 @@
     <ClCompile Include="ProblematicProject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lots_of_code.cpp">
+    <ClCompile Include="stringFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="master_unique_holistic_header.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="my_inconsequential_header.hpp">
+    <ClInclude Include="stringFunctions.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,6 +1,9 @@
-#include "master_unique_holistic_header.hpp"
+#include "stringFunctions.hpp"
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-
+	cout << TwoStringsToStringWithAndInTheMiddle("left", "right") << endl;
 }
